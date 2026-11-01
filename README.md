@@ -9,7 +9,7 @@ Desktop utility for improving progress icons in Discord. <i>(Game Time, Game Var
 
 ## Download
 
-You can download the finished file in the tab [Releases](https://github.com/Antoshika/discord-acitivity-spoofer/releases). 
+You can download the finished file in the tab [Releases](https://github.com/Antoshika/discord-activity-spoofer/releases). 
 <br>Download the latest `discord-activity-spoofer.exe` and run it.
 
 ## Building from Source
